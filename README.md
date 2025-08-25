@@ -1,4 +1,4 @@
-API REST ÁLBUMES MUSICALES USANDO SPRINT BOOT 
+API REST ÁLBUMES MUSICALES USANDO SPRING BOOT 
 El proyecto tiene como tema álbumes musicales. Se creó la tabla album en la base de datos, con los siguientes atributos: albumId, title, artist, genre y releaseDate.
 
 Se implementaron y probaron las operaciones GET, POST y PUT, verificando que las solicitudes al servidor funcionaran correctamente y que los datos se almacenaran, actualizaran y recuperaran según lo esperado.
